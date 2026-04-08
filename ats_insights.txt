@@ -1,0 +1,3 @@
+- Focus on refining action verbs and phrasing for impact without introducing unsupported metrics.
+- Avoid introducing unverified metrics; focus on clarifying existing achievements without inventing data.
+- Avoid introducing new metrics or specifics not explicitly stated in the original text to prevent hallucinations.
