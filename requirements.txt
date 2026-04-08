@@ -1,0 +1,7 @@
+langgraph
+langchain-ollama
+langchain-google-genai
+langgraph-checkpoint-sqlite
+python-docx
+python-dotenv
+langchain-groq
